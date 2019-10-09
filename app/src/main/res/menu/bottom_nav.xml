@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/all_task"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="@string/all_task" />
+
+    <item
+        android:id="@+id/yesterday"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="@string/yesterday" />
+
+    <item
+        android:id="@+id/today"
+        android:icon="@drawable/ic_menu_send"
+        android:title="@string/today" />
+
+    <item
+        android:id="@+id/tomorrow"
+        android:icon="@drawable/ic_menu_share"
+        android:title="@string/tomorrow" />
+
+    <item
+        android:id="@+id/add_task"
+        android:icon="@drawable/ic_add_circle_outline_black_24dp"
+        android:title="@string/add_task" />
+
+</menu>
